@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>dish1.jpg</file>
+        <file>dish2.jpg</file>
+        <file>dish3.jpg</file>
+        <file>dish4.jpg</file>
+        <file>dish5.jpg</file>
+        <file>dish6.jpg</file>
+        <file>dish7.jpg</file>
+        <file>dish8.jpeg</file>
+        <file>dish9.jpeg</file>
+        <file>dish10.jpeg</file>
+        <file>dish11.jpg</file>
+        <file>dish12.jpeg</file>
+        <file>dish13.jpeg</file>
+        <file>bow.jpg</file>
+        <file>clouds flowers grass no_humans original scenic sky tagme.png</file>
+        <file>curtsey.jpg</file>
+        <file>xianzi.jpg</file>
+    </qresource>
+</RCC>
